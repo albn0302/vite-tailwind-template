@@ -1,3 +1,3 @@
 export default {
-    base: "//", // <repo>
+    base: "/main/", // <repo>
 }
